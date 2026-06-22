@@ -11,7 +11,7 @@ Original author:
 RusJJ
 
 ARM64 adaptation:
-https://github.com/dliiartworks
+
 
 ## License
 
